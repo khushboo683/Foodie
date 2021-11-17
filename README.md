@@ -1,7 +1,7 @@
 # Foodie
 Let's discover the foodie inside you !
 
-Share your favorite eatery with the world, comment on others' and find any eatery on map. 
+Share your favorite eatery with the world. 
 
 
 
@@ -12,7 +12,10 @@ Share your favorite eatery with the world, comment on others' and find any eater
 
 ![Screenshot](./public/screenshot/review.png?raw=true "Screenshot")
 
-
+### Features of website-
+- Let's you post about your favorite eatery.
+- Rate and review others' post.
+- Find the eatery on map.
 
 ### View deployed site- 
 https://foodiepana.herokuapp.com/
