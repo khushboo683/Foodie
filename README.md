@@ -8,27 +8,14 @@ Share your favorite eatery with the world, comment on others' and find any eater
 
 ![Screenshot](./public/screenshot/welcome.png?raw=true "Screenshot")
 
+![Screenshot](./public/screenshot/map.png?raw=true "Screenshot")
 
-## Features of the Website -
+![Screenshot](./public/screenshot/review.png?raw=true "Screenshot")
 
-#### Admin Side :-     
-- Verify users using their College IDs.
-- Monitor trends of mess-poll.
-- View complaints regarding hostel and mess.
-- Access to student's hostel & mess attendence.
-
-#### User Side-
-- Welcome e-mail following the registration.
-- Option of setting new password through e-mail on registered id.
-- Casting vote for mess menu.
-- Managing laundry.
-- Filing hostel as well as mess complaint.
-- Updating hostel & mess attendence.
-- Easy access to hostel notices, mess-menu, hostel authorities details, etc.
 
 
 ### View deployed site- 
-https://hostel-hub.herokuapp.com/
+https://foodiepana.herokuapp.com/
 
 
 ### HOW TO RUN (In local machine)
@@ -48,11 +35,11 @@ Back-end Side :-
 - Express-[Session](https://github.com/expressjs/session)
 - [MongoDB](https://www.mongodb.com/)([Mongoose](mongoosejs.com/docs/)/[connect-mongo](https://www.npmjs.com/package/connect-mongo))
 - [EJS](http://ejs.co/)
-- [Mailgun](http://mailgun.com/)
+- [Cloudinary](https://cloudinary.com/documentation)
+- [Mapbox](https://docs.mapbox.com/)
 - [Passport](http://passportjs.org/docs)
 
 Front-end Side :-
-- [jQuery UI](https://jquery.com/)
-- [Bootstrap 4](https://getbootstrap.com/)
+- [Bootstrap 5](https://getbootstrap.com/)
 - CSS3
 - [Javascript](https://www.javascript.com/)
